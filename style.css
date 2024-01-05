@@ -25,7 +25,6 @@ body {
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.6);
-    cursor: pointer;
 }
 
 .add-note {
@@ -37,6 +36,7 @@ body {
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.3);
     border: none;
     outline: none;
+    cursor: pointer;
 }
 
 .add-note:hover {
